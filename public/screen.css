@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: #000;
+  overflow: hidden;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+#main_spot {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+#main_spot ul {
+  position: relative;
+  left: 0;
+}
+#main_spot ul li {
+  float: left;
+  text-align: center;
+}
