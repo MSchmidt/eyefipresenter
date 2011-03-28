@@ -22,3 +22,13 @@ ul {
   float: left;
   text-align: center;
 }
+
+#live_tag {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: #fff;
+  opacity: 0.3;
+  font-family: "Museo Sans";
+  font-size: 58px;
+}
